@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1005411460053",
+    "firebase_url": "https://vrvcgrapp.firebaseio.com",
+    "project_id": "vrvcgrapp",
+    "storage_bucket": "vrvcgrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005411460053:android:965382346dccbffa",
+        "android_client_info": {
+          "package_name": "com.vevcgrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005411460053-9hj1boa5l4dfca4va0nj3katucbm94lh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1005411460053-9hj1boa5l4dfca4va0nj3katucbm94lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPSEvPOCUOVpiwzePzCG48hFnjIHt4_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
